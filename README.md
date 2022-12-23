@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @priyanshu1443
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning web devlopment
+- 👋 Hi, I’m Priyanshu farkare.
+- 👀 I’m interested in learning.
+- 🌱 I’m currently learning web devlopment.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
